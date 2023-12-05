@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AssessmentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Admain">
+    <Key>
+      <PropertyRef Name="admin_username_" />
+    </Key>
+    <Property Name="admin_ID" Type="Int32" />
+    <Property Name="admin_username_" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="admin_pass" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="User_">
+    <Key>
+      <PropertyRef Name="Phone_Number" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="90" FixedLength="false" Unicode="false" />
+    <Property Name="Password_" Type="String" MaxLength="80" FixedLength="false" Unicode="false" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Phone_Number" Type="Int32" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="AssessmentEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Admains" EntityType="Self.Admain" />
+    <EntitySet Name="User_" EntityType="Self.User_" />
+  </EntityContainer>
+</Schema>

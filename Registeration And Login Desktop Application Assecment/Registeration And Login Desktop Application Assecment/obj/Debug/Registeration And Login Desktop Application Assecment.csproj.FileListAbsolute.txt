@@ -1,0 +1,39 @@
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\bin\Debug\Registeration And Login Desktop Application Assecment.exe.config
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\bin\Debug\Registeration And Login Desktop Application Assecment.exe
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\bin\Debug\Registeration And Login Desktop Application Assecment.pdb
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\LogIn_Page.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Sign_Up _Page.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\LogIn_Page.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Sign_Up _Page.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.g.resources
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration_And_Login_Desktop_Application_Assecment.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.exe
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.pdb
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Change_Password.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Profile.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment_Content.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Change_Password.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Profile.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Registeration And Login Desktop Application Assecment.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Add_Page_Admin.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Admin_LogIn.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Admin_Page.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Delete_Admin.g.cs
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Add_Page_Admin.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Admin_LogIn.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Admin_Page.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\Delete_Admin.baml
+C:\Users\Administrator\source\repos\Registeration And Login Desktop Application Assecment\Registeration And Login Desktop Application Assecment\obj\Debug\App.baml

@@ -1,0 +1,16 @@
+﻿<Page x:Class="Registeration_And_Login_Desktop_Application_Assecment.Admin_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Registeration_And_Login_Desktop_Application_Assecment"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Admin_Page">
+
+    <Grid Background="White">
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="224,110,0,0" VerticalAlignment="Top" Width="263" Height="90" Background="#FF03FB0E" FontSize="50" FontFamily="Arial Black" Click="Button_Click"/>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="224,253,0,0" VerticalAlignment="Top" Width="263" Height="90" Background="#FF03FB0E" FontSize="50" FontFamily="Arial Black" Click="Button_Click_1"/>
+
+    </Grid>
+</Page>
